@@ -1,0 +1,6 @@
+What i have learned from this course
+i have an overview of how Git works;Developers use github to collaborate and track the progress of their projects.
+Github also provides AI and automation tools to help you build and ship better software faster.
+GitHub is a cloud-based platform where you can store, share, and work together with others to write code.
+Storing your code in a "repository" on GitHub allows you to: Showcase or share your work. 
+Track and manage changes to your code over time.
